@@ -7,7 +7,7 @@ cask "viewr" do
   desc "Native macOS image viewer with parallel decode pipeline"
   homepage "https://github.com/rayone/viewR"
 
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
 
   app "viewR.app"
 

@@ -7,7 +7,7 @@ cask "submission" do
   desc "Native macOS client for Transmission"
   homepage "https://github.com/rayone/subMission"
 
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
 
   app "subMission.app"
 
