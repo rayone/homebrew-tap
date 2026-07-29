@@ -1,6 +1,6 @@
 cask "viewr" do
-  version "1"
-  sha256 "e42967d289444d544913e36c41f9b4f349baf3691e6af0196e96f2f254ba6607"
+  version "2"
+  sha256 "85425d64a2f1dc62c482085980b61a40a041806e490675b57bca0babb28be16d"
 
   url "https://github.com/rayone/viewR/releases/download/v#{version}/viewR.dmg"
   name "viewR"
