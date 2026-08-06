@@ -1,6 +1,6 @@
 cask "submission" do
   version "2"
-  sha256 "37f915f7e562336a0654f673717c86c7e46c89ea21bb51129e142f1ff749a5cf"
+  sha256 "ecc7f49c0245f26555ddea02a731896e6cb2c0ee232382aa5c822bb540880875"
 
   url "https://github.com/rayone/subMission/releases/download/v#{version}/subMission.dmg"
   name "subMission"
